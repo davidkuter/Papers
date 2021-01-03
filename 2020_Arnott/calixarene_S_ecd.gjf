@@ -1,0 +1,5 @@
+%Mem=15GB
+%lindaworkers=cnode0046.cm.cluster
+%CPU=0-23
+%chk=calixarene_S_ecd.chk
+#p PBE1PBE/TZVP Guess=read SCF=QC Geom=allcheck SCRF=(SMD,solvent=Acetonitrile) TD(Read,Add=50) pop=full

@@ -1,0 +1,5 @@
+%Mem=15GB
+%lindaworkers=cnode0470.cm.cluster
+%CPU=0-23
+%chk=calixarene_S_pop.chk
+#p PBE1PBE/TZVP Guess=read SCF=QC Geom=allcheck SCRF=(SMD,solvent=Acetonitrile) pop=full Gfinput IOP(6/7=3)
